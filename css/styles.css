@@ -55,6 +55,8 @@ a {
 
 .nav .logo {
     margin-right: 76px;
+    position: relative;
+    color: #404bbf;
 }
 
 .nav-list, 
