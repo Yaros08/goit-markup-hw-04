@@ -55,8 +55,6 @@ a {
 
 .nav .logo {
     margin-right: 76px;
-    position: relative;
-    color: #404bbf;
 }
 
 .nav-list, 
@@ -116,6 +114,9 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
     font-size: 16px;
+
+    position: relative;
+    color: #404bbf;
 }
 
 .nav-menu:hover {
