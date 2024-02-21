@@ -131,7 +131,7 @@ a {
     color: #404bbf;
 }
 
-.nav-menu.home ::after {
+.nav-menu.home::after {
     content: '';
     width: 100%;
     position: absolute;
